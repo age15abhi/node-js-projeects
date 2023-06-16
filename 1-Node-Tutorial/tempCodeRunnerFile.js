@@ -1,0 +1,1 @@
+const data = require('../6_alternative_flavour')

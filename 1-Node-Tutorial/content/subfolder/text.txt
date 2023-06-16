@@ -1,0 +1,2 @@
+hyy i am abhi
+// this file is used for path module to explain the path.join method
